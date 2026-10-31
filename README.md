@@ -1,4 +1,4 @@
-# Awesome AML & Sanctions ML
+# AML & Sanctions ML
 
 A curated reference for people building transaction monitoring, sanctions screening and entity matching: peer-reviewed research, patents, datasets, open-source tools and dated industry news. Each entry carries a short note on why it earns its place.
 
