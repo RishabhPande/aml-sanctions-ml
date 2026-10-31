@@ -13,7 +13,9 @@ Venue named per entry. Preprints live in their own subsection below and are not 
 
 ### Preprints
 
-_(None yet - preprints are added here, clearly marked, and promoted to the peer-reviewed section only when a venue is confirmed.)_
+Clearly marked; promoted to the peer-reviewed section only when a venue is confirmed.
+
+- "Pricing Cross-Bank Context in Federated Anti-Money Laundering" (arXiv preprint, Oct 2026) - pricing shared cross-bank context in federated AML; pairs with the federated-AML patents below. https://arxiv.org/abs/2610.35996
 
 ## Patents
 
@@ -53,6 +55,10 @@ Sources watched:
 
 - FinCEN advisories. https://www.fincen.gov/resources/advisoriesbulletinsfact-sheets/advisories
 - FATF publications. https://www.fatf-gafi.org/en/publications.html
+
+Entries:
+
+- 2026-09-03: FinCEN Alert FIN-2026-Alert005 on scam centers - typologies worth encoding in monitoring rules. https://www.fincen.gov/system/files/2026-08/FinCEN-Alert-Scam-Centers.pdf
 
 ## Reproducible evaluations
 
