@@ -61,6 +61,9 @@ Entries:
 - 2026-09-03: FinCEN Alert FIN-2026-Alert005 on scam centers - typologies worth encoding in monitoring rules. https://www.fincen.gov/system/files/2026-08/FinCEN-Alert-Scam-Centers.pdf
 - 2026-10-01: FinCEN Alert FIN-2026-Alert007 on the A7 shadow banking network - typologies and SAR filing terms for sanctions-evasion monitoring, including digital asset channels. https://www.fincen.gov/system/files/2026-10/FinCEN-Alert-A7-Network.pdf
 - 2026-10-15: FinCEN Alert FIN-2026-Alert008 on abuse of religious charity networks - typologies and SAR filing request relevant to NGO/correspondent-bank monitoring rules. https://www.fincen.gov/system/files/2026-10/FinCEN-Alert-Iranian-Charity-Network-Abuse.pdf
+- 2026-10-30: FinCEN Alert FIN-2026-Alert009 on risks associated with foreign-agent-directed transactions through U.S. money services businesses - SAR key term FIN2026FOREIGNAGENT for cross-border MSB monitoring rules. https://www.fincen.gov/system/files/2026-10/FinCEN-Alert-Foreign-Agent-Directed-Transactions.pdf
+- 2026-10-30: FinCEN Notice FIN-2026-NTC2 on the use of charities and non-profit organizations for illicit activity - NGO-abuse typologies paired with the Minnesota fraud-prevention measures. https://www.fincen.gov/system/files/2026-10/FinCEN-Notice-Illicit-Activity-Charities-Non-Profit-Org.pdf
+- 2026-10-30: FATF October 2026 Plenary outcomes - Bulgaria, Cote d'Ivoire, Democratic Republic of the Congo and Monaco removed from increased monitoring (grey-list effective dates for screening); Mexico and U.S. mutual evaluation reports adopted; first report under the FATF fraud roadmap on scam compounds. https://www.fatf-gafi.org/en/publications/Fatfgeneral/outcomes-fatf-plenary-october-2026.html
 
 ## Reproducible evaluations
 
