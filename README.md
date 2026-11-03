@@ -16,6 +16,7 @@ Venue named per entry. Preprints live in their own subsection below and are not 
 Clearly marked; promoted to the peer-reviewed section only when a venue is confirmed.
 
 - "Pricing Cross-Bank Context in Federated Anti-Money Laundering" (arXiv preprint, Oct 2026) - pricing shared cross-bank context in federated AML; pairs with the federated-AML patents below. https://arxiv.org/abs/2610.35996
+- "AMLBench: A Real-Incident Benchmark for Agentic Blockchain Anti-Money Laundering" (arXiv preprint, Nov 2026) - 24 real-world cases and 5.05M Ethereum transfer records for testing whether LLM agents can trace illicit funds from limited clues. https://arxiv.org/abs/2611.02530
 
 ## Patents
 
