@@ -10,6 +10,7 @@ Venue named per entry. Preprints live in their own subsection below and are not 
 
 - Weber et al., "Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics" (KDD 2019 Workshop on Anomaly Detection in Finance - workshop paper) - the paper behind the Elliptic dataset. https://arxiv.org/abs/1908.02591
 - Altman et al., a synthetic financial network and agent-based AML benchmark dataset (Scientific Data, Nature portfolio). https://doi.org/10.1038/s41597-023-02569-2
+- Zhang et al., "Rule-graph alignment via optimal transport for weakly supervised anomaly detection on transaction graphs" (Journal of King Saud University Computer and Information Sciences, 2026) - weakly supervised transaction-graph anomaly detection that aligns decision-tree rule paths with transaction embeddings via optimal transport, easing the expert-label bottleneck; evaluated on four datasets including Libra Bank. https://doi.org/10.1007/s44443-026-01381-3
 
 ### Preprints
 
@@ -17,6 +18,7 @@ Clearly marked; promoted to the peer-reviewed section only when a venue is confi
 
 - "Pricing Cross-Bank Context in Federated Anti-Money Laundering" (arXiv preprint, Oct 2026) - pricing shared cross-bank context in federated AML; pairs with the federated-AML patents below. https://arxiv.org/abs/2610.35996
 - "AMLBench: A Real-Incident Benchmark for Agentic Blockchain Anti-Money Laundering" (arXiv preprint, Nov 2026) - 24 real-world cases and 5.05M Ethereum transfer records for testing whether LLM agents can trace illicit funds from limited clues. https://arxiv.org/abs/2611.02530
+- "TRACK: Multiple Instance Learning for Anti-Money Laundering in Transaction Networks" (arXiv preprint, Nov 2026; per the preprint, accepted at WSDM 2027) - recasts account-level AML detection as multiple instance learning over an account's transactions instead of aggregating first; outperforms tabular and graph baselines on five AML datasets under account-window supervision alone. https://arxiv.org/abs/2611.06035
 
 ## Patents
 
@@ -66,6 +68,7 @@ Entries:
 - 2026-10-30: FinCEN Notice FIN-2026-NTC2 on the use of charities and non-profit organizations for illicit activity - NGO-abuse typologies paired with the Minnesota fraud-prevention measures. https://www.fincen.gov/system/files/2026-10/FinCEN-Notice-Illicit-Activity-Charities-Non-Profit-Org.pdf
 - 2026-10-30: FATF October 2026 Plenary outcomes - Bulgaria, Cote d'Ivoire, Democratic Republic of the Congo and Monaco removed from increased monitoring (grey-list effective dates for screening); Mexico and U.S. mutual evaluation reports adopted; first report under the FATF fraud roadmap on scam compounds. https://www.fatf-gafi.org/en/publications/Fatfgeneral/outcomes-fatf-plenary-october-2026.html
 - 2026-10-30: FATF launches a targeted review of virtual-asset Standards implementation - country-by-country review focused on jurisdictions with materially important VASP activity (MIVA), pushing R.15 implementation; expect tighter expectations for VASP compliance and wallet/VA screening tooling. https://www.fatf-gafi.org/en/publications/Fatfrecommendations/launch-targeted-review-strengthen-standards-virtual-assets.html
+- 2026-11-05: FATF publishes "Combating End-to-End Illicit Financial Flows linked to Scam Compounds" (the fraud-roadmap report adopted at the October plenary) - maps the payment, virtual-asset, technology and telecom infrastructure scam networks depend on, with disruption approaches before and after victim payments; typology source for scam-flow monitoring rules. https://www.fatf-gafi.org/en/news/combating-illicit-financial-flows-linked-to-scam-compounds.html
 
 ## Reproducible evaluations
 
