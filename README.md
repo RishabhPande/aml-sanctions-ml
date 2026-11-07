@@ -44,6 +44,7 @@ Publication type is stated per entry: a B-number publication is a granted patent
 
 - OpenSanctions - consolidated sanctions/PEP/crime data as an open dataset and API. https://github.com/opensanctions/opensanctions
 - Moov Watchman - sanctions list search and screening API; production-grade screening code you can read and run. https://github.com/moov-io/watchman
+- AgentReader (listed by its maintainers) - MIT-licensed HTTP API that batch-screens up to 50 names per call against OFAC SDN/Consolidated, UN Security Council, UK FCDO and EU financial sanctions lists, returning per-name match scores with the list each hit came from; useful when an AI agent has to screen counterparties without an account or API key (pay per call via x402, free `?preview=1` sample). A screening aid, not a compliance determination. https://github.com/grokbot1233/agentreader
 
 ## Regulator list sources
 
