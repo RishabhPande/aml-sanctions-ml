@@ -25,6 +25,9 @@ Clearly marked; promoted to the peer-reviewed section only when a venue is confi
 - "PersonaAgent: Retrieval-Augmented Transaction Anomaly Scoring with Refreshable Multi-Entity Persona Memory" (arXiv preprint, Nov 2026) - keeps refreshable persona memory of entity behavior signals and retrieves them at inference to augment a base anomaly classifier, addressing behavior drift between production model refreshes; benchmarked with anomaly detection models at Visa. https://arxiv.org/abs/2611.08094
 - "SALT-GNN: Handling Dense Neighborhoods in Anti-Money Laundering Graphs via Statistics-Aware Attention" (arXiv preprint, Jul 2026) - recipient-degree stratified evaluation shows AML GNN performance degrades in dense recipient contexts on HI-Small, HI-Medium and AMLSim, tracing the gap to multiset non-discriminability and cardinality blindness; a useful check before trusting aggregate F1 on transaction graphs. https://arxiv.org/abs/2607.10131
 
+- "MINT: Mitigating Structural Inconsistency via Attentive Message Passing for Financial Anomaly Detection" (arXiv preprint, Oct 2026) - combines discrepancy-aware directed message passing, transaction-salience edge weighting and positive-unlabeled learning for scarce illicit-account labels; evaluated on two public transaction benchmarks and one proprietary dataset. https://arxiv.org/abs/2610.34950
+- "Directed-Hypergraph Analytics and Fragility Testing for Anti-Money Laundering" (arXiv preprint, Oct 2026) - adds graph and directed-hypergraph features to Elliptic++ illicit-address classification and tests suspicious-flow motifs by removing high-risk intermediaries; a study of higher-order structure, not proof of real-world disruption. https://arxiv.org/abs/2610.24274
+
 ## Patents
 
 Publication type is stated per entry: a B-number publication is a granted patent, an A-number publication is an application. Publication type says nothing about current legal status or enforceability, which we do not assess.
