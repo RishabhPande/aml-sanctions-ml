@@ -36,6 +36,7 @@ Publication type is stated per entry: a B-number publication is a granted patent
 - US10607227B2 (granted) - System, method, and computer program product for detecting potential money laundering activities. https://patents.google.com/patent/US10607227B2/en
 - US10438297B2 (granted) - Anti-money laundering platform for mining and analyzing data to identify money launderers. https://patents.google.com/patent/US10438297B2/en
 - US20250103810A1 (application, not granted) - Large language model for sanctions AI-assisted automation. https://patents.google.com/patent/US20250103810A1/en
+- EP4632653A1 (application, not granted) - "Machine learning system and method for watchlist identity resolution and monitoring"; combines contextual identity data, semantic identity modeling and graph-based clustering for watchlist matching. An architectural reference, not evidence of matching accuracy or current legal status. https://patents.google.com/patent/EP4632653A1/en
 
 ## Datasets
 
