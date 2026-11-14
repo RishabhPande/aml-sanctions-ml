@@ -40,6 +40,7 @@ Publication type is stated per entry: a B-number publication is a granted patent
 
 ## Datasets
 
+- OpenSanctions Pairs - sanctions/OSINT entity-matching judgments. The current grouped release includes replay-time entity evidence and cluster labels for leakage-safe evaluation: split by cluster partition, not by row. Its download requires a delivery token; the older public snapshot is CC-BY-NC 4.0 for non-commercial research, not an unrestricted commercial dataset. [Current release docs](https://www.opensanctions.org/docs/opensource/pairs/) · [Older public snapshot](https://huggingface.co/datasets/sanctions-er-anon/opensanctions_pairs)
 - IBM AMLSim - synthetic AML transaction generator and benchmark; the standard sandbox when real laundering labels are unobtainable. https://github.com/IBM/AMLSim
 - Elliptic Data Set - 200k Bitcoin transactions with licit/illicit labels; the benchmark most graph-AML papers report on. https://www.kaggle.com/datasets/ellipticco/elliptic-data-set
 - IEEE-CIS Fraud Detection - real e-commerce transactions from Vesta; the reference tabular fraud benchmark. https://ieee-dataport.org/documents/ieee-cis-fraud-detection
