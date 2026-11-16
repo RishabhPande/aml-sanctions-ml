@@ -82,6 +82,8 @@ Entries:
 - 2026-11-06: FinCEN order under Operation Economic Outcast severs MEXC Global from the U.S. financial system - the CVC exchanger facilitated at least $16 billion in illicit finance including IRGC-Qods Force flows; counterparty-risk signal for crypto on/off-ramp screening rules. https://home.treasury.gov/news/press-releases/sb0685
 - 2026-11-06: OFAC sanctions eight Canadian money services businesses enabling the Iranian regime (Operation Economic Outcast) - MSB-based sanctions-evasion typology to pair with the Oct 1 FinCEN A7 shadow-banking alert. https://home.treasury.gov/news/press-releases/sb0686
 
+- 2026-11-02: OpenSanctions technical update announces UK birthplace/passport parsing changes and Swiss designation-metadata/nationality changes effective November 16 - useful regression-fixture and match-score-drift checks for screening-data pipelines; provider-announced data changes, not new sanctions designations. https://discuss.opensanctions.org/t/technical-updates-for-november-2026/389/1
+
 ## Reproducible evaluations
 
 - stream-fraud - reproducible streaming fraud-detection evaluation (maintainer's own project). https://github.com/RishabhPande/stream-fraud
