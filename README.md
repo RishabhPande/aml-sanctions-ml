@@ -50,6 +50,7 @@ Publication type is stated per entry: a B-number publication is a granted patent
 
 - OpenSanctions - consolidated sanctions/PEP/crime data as an open dataset and API. https://github.com/opensanctions/opensanctions
 - Moov Watchman - sanctions list search and screening API; production-grade screening code you can read and run. https://github.com/moov-io/watchman
+- yente - self-hostable search, retrieval and matching API for FollowTheMoney entities, including custom watchlists; the open-source core of the hosted OpenSanctions API. MIT-licensed code does not remove separate OpenSanctions data-license requirements for commercial use. https://github.com/opensanctions/yente
 
 ## Regulator list sources
 
