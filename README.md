@@ -72,6 +72,8 @@ Sources watched:
 
 Entries:
 
+- 2026-11-17: FinCEN proposes changes to customer due diligence requirements, including beneficial-owner information and repeat account-opening checks - a proposal to track for onboarding schemas and entity-resolution workflows, not a final rule or a new effective requirement. https://home.treasury.gov/news/press-releases/sb0691/
+
 - 2026-09-03: FinCEN Alert FIN-2026-Alert005 on scam centers - typologies worth encoding in monitoring rules. https://www.fincen.gov/system/files/2026-08/FinCEN-Alert-Scam-Centers.pdf
 - 2026-10-01: FinCEN Alert FIN-2026-Alert007 on the A7 shadow banking network - typologies and SAR filing terms for sanctions-evasion monitoring, including digital asset channels. https://www.fincen.gov/system/files/2026-10/FinCEN-Alert-A7-Network.pdf
 - 2026-10-15: FinCEN Alert FIN-2026-Alert008 on abuse of religious charity networks - typologies and SAR filing request relevant to NGO/correspondent-bank monitoring rules. https://www.fincen.gov/system/files/2026-10/FinCEN-Alert-Iranian-Charity-Network-Abuse.pdf
