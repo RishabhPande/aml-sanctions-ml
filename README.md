@@ -72,7 +72,9 @@ Sources watched:
 
 Entries:
 
-- 2026-11-17: FinCEN proposes changes to customer due diligence requirements, including beneficial-owner information and repeat account-opening checks - a proposal to track for onboarding schemas and entity-resolution workflows, not a final rule or a new effective requirement. https://home.treasury.gov/news/press-releases/sb0691/
+- 2026-11-19: Treasury/OFAC designates three individuals and two companies linked to Southeast Asian cyber scam centers - a concrete operator, corporate-affiliation and armed-group protection network for entity-linking and scam-flow monitoring research; the release and SDN update provide complementary narrative and structured identifiers. [Treasury release](https://home.treasury.gov/news/press-releases/sb0695) · [OFAC list update](https://ofac.treasury.gov/recent-actions/20261119)
+
+- 2026-11-17: FinCEN proposes changes to customer due diligence requirements, including beneficial-owner information and repeat account-opening checks - a proposal to track for onboarding schemas and entity-resolution workflows, not a final rule or a new effective requirement. [Treasury announcement](https://home.treasury.gov/news/press-releases/sb0691/) · [Federal Register proposal, published November 19](https://www.federalregister.gov/documents/2026/11/19/2026-23614/customer-due-diligence-requirements-for-covered-financial-institutions)
 
 - 2026-09-03: FinCEN Alert FIN-2026-Alert005 on scam centers - typologies worth encoding in monitoring rules. https://www.fincen.gov/system/files/2026-08/FinCEN-Alert-Scam-Centers.pdf
 - 2026-10-01: FinCEN Alert FIN-2026-Alert007 on the A7 shadow banking network - typologies and SAR filing terms for sanctions-evasion monitoring, including digital asset channels. https://www.fincen.gov/system/files/2026-10/FinCEN-Alert-A7-Network.pdf
