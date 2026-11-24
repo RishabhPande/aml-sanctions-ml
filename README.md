@@ -45,6 +45,7 @@ Publication type is stated per entry: a B-number publication is a granted patent
 - Elliptic Data Set - 200k Bitcoin transactions with licit/illicit labels; the benchmark most graph-AML papers report on. https://www.kaggle.com/datasets/ellipticco/elliptic-data-set
 - IEEE-CIS Fraud Detection - real e-commerce transactions from Vesta; the reference tabular fraud benchmark. https://ieee-dataport.org/documents/ieee-cis-fraud-detection
 - PaySim - synthetic mobile-money simulation for testing detection logic at scale. https://github.com/EdgarLopezPhD/PaySim
+- CHASE-AML - lifecycle-aware synthetic banking benchmark (33M settled transactions, 500k accounts) with 26 suspicious typologies and annotated single-path and branching laundering cases; case, path and stage metadata lets alert reach across cases be evaluated separately from plain transaction ranking. CC-BY 4.0, first public release November 2026; ships data and dictionary only, no generator or evaluation code. https://doi.org/10.5281/zenodo.24242391
 
 ## Open-source tools
 
@@ -71,6 +72,8 @@ Sources watched:
 - FATF publications. https://www.fatf-gafi.org/en/publications.html
 
 Entries:
+
+- 2026-11-23: OFAC sanctions over two dozen Iranian exchange houses, front companies and key personnel under Operation Economic Outcast - the release maps the rahbar-company structure and Dubai/Hong Kong front-company layering behind Iran's shadow banking, a concrete network typology to pair with the Oct 1 FinCEN A7 alert. https://home.treasury.gov/news/press-releases/sb0699/
 
 - 2026-11-19: Treasury/OFAC designates three individuals and two companies linked to Southeast Asian cyber scam centers - a concrete operator, corporate-affiliation and armed-group protection network for entity-linking and scam-flow monitoring research; the release and SDN update provide complementary narrative and structured identifiers. [Treasury release](https://home.treasury.gov/news/press-releases/sb0695) · [OFAC list update](https://ofac.treasury.gov/recent-actions/20261119)
 
